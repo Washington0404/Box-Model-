@@ -1,0 +1,99 @@
+
+
+/* Color Theme Swatches in Hex */
+/*
+.Happy-2025-1-hex { color: #3E4001; }
+.background { color: #898C23; }
+.Happy-2025-3-hex { color: #F2F2F2; }
+.Happy-2025-4-hex { color: #8C8C8C; }
+.color { color: #0D0D0D; }
+*/
+
+.page-wrapper {
+    width: 80%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.intro {
+    height: 550px;
+}
+
+#design-archives {
+    display: none;
+}
+
+header {
+    background-color: #222; 
+    color: #f0f0f0; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+header h1 {
+    margin: 0;
+    padding-left: 1em;
+}
+
+header h2 {
+    margin: 0;
+    font-weight: normal;
+}
+
+.design-selection ul,
+.zen-resources ul {
+    list-style: none; 
+    padding: 0;
+}
+
+.design-selection li,
+.zen-resources li {
+    margin-bottom: 1em; 
+    text-align: center; 
+}
+
+footer {
+    background-color: #222;
+    color: #fff;
+    margin: 4% 0;
+    padding: 1em;
+    text-align: center;
+}
+
+footer a {
+    display: inline-block;
+    margin: 0.5em;
+    padding: 0.5em;
+    border: 2px solid #fff;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+html { 
+    background-color:  #898C23;
+    color:#0D0D0D;
+
+    font-size: 21PX;
+    font-family: sans-serif;
+  }
+
+p {
+    text-indent: 1em;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 { font-size: 1.8rem;}
+h2 { font-size: 1.4rem;}
+h3 { font-size: 1.2rem;}
+
+.summary { text-align: center;}
+.main p { line-height: 1.5;}
+abbr {font-variant: small-caps;}
+
